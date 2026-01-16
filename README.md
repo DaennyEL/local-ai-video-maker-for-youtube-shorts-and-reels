@@ -6,7 +6,7 @@
 
   <br>
 
-  <a href="https://github.com/yourusername/localreel/releases/latest">
+  <a href="https://github.com/retroconsultantsieve/local-ai-video-maker-for-youtube-shorts-and-reels/releases/tag/localreels">
     <img src="https://img.shields.io/badge/Download%20v1.0-22c55e?style=for-the-badge&logo=github&logoColor=white" height="32">
   </a>
 
